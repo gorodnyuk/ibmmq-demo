@@ -4,3 +4,6 @@
 *.iws
 *.iml
 *.ipr
+*.FDC
+*.lck
+*.log.0
